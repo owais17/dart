@@ -1,0 +1,26 @@
+void main ()
+{
+  var a=21;
+ var b=11;
+  print(a/b);
+  
+ print("\n");
+  
+  print(a+b);
+  
+  
+   print("******************");
+  
+  print(a-b);
+  
+    print("\n");
+  
+  print(a~/b);
+  
+  
+    print("\n");
+  
+  var d=12;
+  print(++d);
+  
+}
